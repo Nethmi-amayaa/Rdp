@@ -1,6 +1,6 @@
 #!/bin/sh
-# Free XRDP mac
-rm -rf ngrok ngrok.zip ng.sh mac.sh x.sh > /dev/null 2>&1
+# Free XRDP KaliLinux | https://aank.me/Youtube
+rm -rf ngrok ngrok.zip ng.sh xrdp-kali.sh x.sh > /dev/null 2>&1
 wget -O ng.sh https://bit.ly/GCngr0k > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
